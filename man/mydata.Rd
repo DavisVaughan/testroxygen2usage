@@ -13,7 +13,4 @@ mydata
 \description{
 My data
 }
-\examples{
-mydata
-}
 \keyword{datasets}
